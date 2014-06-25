@@ -13,7 +13,7 @@
 // system include files
 
 // user include files
-#include "SimG4Core/HelpfulWatchers/src/BeginOfTrackCounter.h"
+#include "BeginOfTrackCounter.h"
 
 #include "FWCore/Framework/interface/Event.h"
 #include "FWCore/ParameterSet/interface/ParameterSet.h"

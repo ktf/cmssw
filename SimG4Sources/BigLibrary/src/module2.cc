@@ -1,8 +1,8 @@
 #include "SimG4Core/Watcher/interface/SimWatcherFactory.h"
-#include "SimG4Core/HelpfulWatchers/src/SimTracer.h"
-#include "SimG4Core/HelpfulWatchers/src/BeginOfTrackCounter.h"
+#include "SimG4Sources/BigLibrary/src/SimTracer.h"
+#include "SimG4Sources/BigLibrary/src/BeginOfTrackCounter.h"
 //Adding a Watcher to collect G4step statistics:
-#include "SimG4Core/HelpfulWatchers/src/G4StepStatistics.h"
+#include "SimG4Sources/BigLibrary/src/G4StepStatistics.h"
 #include "SimG4Core/HelpfulWatchers/interface/MonopoleSteppingAction.h"
 
 #include "FWCore/PluginManager/interface/ModuleDef.h"
