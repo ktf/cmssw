@@ -25,6 +25,3 @@
 <use   name="hepmc"/>
 <use   name="heppdt"/>
 <use   name="rootrflx"/>
-<export>
-  <lib   name="1"/>
-</export>

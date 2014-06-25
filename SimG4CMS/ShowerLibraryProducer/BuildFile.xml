@@ -19,6 +19,7 @@
 <use   name="geant4core"/>
 <use   name="root"/>
 <use   name="rootmath"/>
+<use   name="hepmc"/>
 <export>
   <lib   name="1"/>
 </export>

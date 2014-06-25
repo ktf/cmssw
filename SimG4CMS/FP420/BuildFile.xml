@@ -15,6 +15,3 @@
 <use   name="boost"/>
 <use   name="geant4core"/>
 <use   name="root"/>
-<export>
-  <lib   name="1"/>
-</export>

@@ -25,6 +25,3 @@
 <use   name="clhep"/>
 <use   name="hepmc"/>
 <use   name="gsl"/>
-<export>
-  <lib   name="1"/>
-</export>

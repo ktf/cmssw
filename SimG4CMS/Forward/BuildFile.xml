@@ -16,6 +16,3 @@
 <use   name="geant4core"/>
 <use   name="root"/>
 <use   name="rootmath"/>
-<export>
-  <lib   name="1"/>
-</export>
