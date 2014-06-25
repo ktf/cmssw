@@ -18,6 +18,8 @@
 #<flags LDFLAGS="/afs/cern.ch/cms/sw/ReleaseCandidates/vol0/slc6_amd64_gcc481/external/geant4/10.00.p01-cms2/lib/libG4tracking.a"/>
 #<flags LDFLAGS="/afs/cern.ch/cms/sw/ReleaseCandidates/vol0/slc6_amd64_gcc481/external/geant4/10.00.p01-cms2/lib/libG4track.a"/>
 #<flags LDFLAGS="/afs/cern.ch/cms/sw/ReleaseCandidates/vol0/slc6_amd64_gcc481/external/geant4/10.00.p01-cms2/lib/libG4analysis.a"/>
+<flags LDFLAGS="/build/ge/CMSSW_7_2_X_2014-06-25-0200/geant4.o"/>
+#<lib name="geant4"/>
 <use   name="boost"/>
 <use   name="clhep"/>
 <use   name="CommonTools/UtilAlgos"/>
