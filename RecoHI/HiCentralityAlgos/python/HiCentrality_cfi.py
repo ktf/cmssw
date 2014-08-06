@@ -23,7 +23,7 @@ hiCentrality = cms.EDProducer("CentralityProducer",
                             srcReUse = cms.InputTag("hiCentrality"),
                             srcPixelTracks = cms.InputTag("hiPixel3PrimTracks"),
 
-                            doPixelCut = cms.bool(True),
+                            doPixelCut = cms.bool(False),
                             UseQuality = cms.bool(True),
                             TrackQuality = cms.string('highPurity'),
                             trackEtaCut = cms.double(2),
